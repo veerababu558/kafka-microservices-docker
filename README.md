@@ -11,6 +11,6 @@ This project demonstrates how to build microservices using Spring Boot and enabl
 2. Apache Kafka  - Message broker for asynchronous,event-driven communication
 3. GitHub codespaces - Cloud-based development environment
 4. Maven -Build and dependency management tool
-5. Docker -For containerizing the producer and consumer microservicesx`
+5. Docker -For containerizing the producer and consumer microservices
 
 
